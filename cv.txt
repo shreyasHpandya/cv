@@ -1,0 +1,66 @@
+Mr. SHREYAS PANDYA
+Mo.: 9764779809
+E-Mail: pandyashreyas1@gmail.com
+
+CAREER OBJECTIVE:
+Contribute my best for the betterment of the entire humankind.
+
+TECHNICAL KNOWLEDGE:
+      o.  Django framework for web development
+      o.  python language
+      o.  javascript
+      o.  javascript MVC framwork: Backbone.js
+      o.  bootstrap.css and basic css and web designing
+      o.  Linux/Ubuntu (user management, file permissions, package management, server configurations)
+      o.  sql 
+      o.  mongodb
+      o.  git
+
+OTHER Tools/Platforms/Frameworks:
+      o.  Google App Engine
+      o.  Amazon AWS:
+	    familiarity with amazon ec2,s3 etc services
+      o.  various Javascript libraries. eg. underscore.js, backbone.js, jquery.js 
+      o.  REST api development
+      o.  server virtualization using xen hypervisor
+
+WORKING EXPERIENCE:
+      1. Software development consultant at Infogrid Pacific pvt.ltd.(Nov,2011-jul,2012)
+      2. IT Analyst at Searce Cosourcing (Jul,2012-present)
+
+STRENGTHS:
+      o.  knack for learning new technologies
+      o.  Open source enthusiast
+
+ACADEMICS:
+       B.Tech in Electronics and Communication Engg.
+       College:   Nirma Institute of Technology, Ahmedabad,Gujarat
+       Cumulative Performance Index: - 6.87 / 10
+       year of completion: 2011
+       
+       10+2 with 84.8% completed in 2007
+       10th with 75%   completed in 2005
+
+PROJECTS:
+      o.  Distribution Manager
+          using Django, postgresql
+      o.  Content Fullfillment system
+          using Django, postgresql
+      o.  Tariff Management System
+          using Django, mysql, AWS-S3
+      o.  Collaborative Recruitment Software
+          using google app engine, javascript
+      o.  Server automation and remote server management system:
+           It is IAAS model of cloud computing developed for mistcloud web services 
+           pvt.ltd. It is built using open source softwares only. It involved use of linux env-
+           ironment as programming platform, python, php, as programming language and little use
+           of c,c++. Also, server virtualization technology, extensive use of networking concepts 
+           and storage area network and web technologies are involved.
+      o.  Sflow protocol for network automation:
+           modified the implementation of sflow protocol to integrate with the data-base. 
+
+PERSONAL PROFILE:
+      Name: Shreyas Pandya
+      present address: 6-Amey, plot-9, Vardayini society,sus pashan road, pune,maharashtra
+      Permanent Address: 47,Vakil chowk,Kodinar,dist:Junagadh,gujarat,pin:362720
+      Date of birth: 26th  February, 1990
