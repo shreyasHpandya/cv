@@ -1,0 +1,88 @@
+Mr. SHREYAS PANDYA
+Mo.: +91-9429440445, 9764779809
+E-Mail: pandyashreyas1@gmail.com
+
+CAREER OBJECTIVE:
+Contribute my best for the betterment of the entire humankind.
+
+TECHNICAL KNOWLEDGE:
+      o.  Django framework for web development
+      o.  python scripting
+      o.  c,c++
+      o.  Networking
+      o.  Linux (basic administartion and networking)
+      o.  web2 technologies (conceptual knowledge of web2 paradigm)
+
+OTHER TECHNICAL SKILLS:
+      o.  cloud computing:
+            good understanding of SAAS,PASS and IAAS model of cloud computing
+      o.  Amazon AWS:
+	    familiarity with amazon ec2,s3 etc services
+      o.  Google app engine:
+	    familiar with google app engine hosting services
+      o.  Javascript,Ajax:
+            basic understanding of js,ajax,and jquery library
+      o.  cgi/WSGI
+      o.  web service development(ws-* standerds)
+      o.  REST api,SOAP api,WSDL,WADL
+      o.  Open source enthusiast
+      o.  server virtualization using xen hypervisor
+      o.  high availability and load balancing concepts
+
+WORKING EXPERIENCE:
+      1. Software development consultant at Infogrid Pacific pvt.ltd.(Nov,2011-ongoing)
+
+ACADEMICS:
+       B.Tech in Electronics and Communication Engg.
+       College:   Nirma Institute of Technology, Ahmedabad,Gujarat
+       Cumulative Performance Index: - 6.87 / 10
+       year of completion: 2011
+       
+       10+2 with 84.8% completed in 2007
+       10th with 75%   completed in 2005
+
+ACADEMIC PROJECTS:
+      o.  Server automation and remote server management system:
+           It is IAAS model of cloud computing developed for mistcloud web services 
+           pvt.ltd. It is built using open source softwares only. It involved use of linux env-
+           ironment as programming platform, python, php, as programming language and little use
+           of c,c++. Also, server virtualization technology, extensive use of networking concepts 
+           and storage area network and web technologies are involved.
+      o.  Sflow protocol for network automation:
+           modified the implementation of sflow protocol to integrate with the data-base. 
+      o.  Stepper motor control using microcontroller
+      o.  Microcontroller based FM and Morse code decoder
+      o.  Mobile detector with range of ten meters
+      o.  enhanced MPEG4-ALS lossless compression for speech
+
+TECHNICAL INTERESTS: 
+      o.  Programming
+      o.  Computer Networking
+      o.  Computer Science
+
+OTHER INTERESTS:
+      o.  Mathematics
+      o.  Physics
+      o.  History of world,ancient civilizations,world war-II, etc.
+      o.  General Science in daily day life. ("How stuff works" kind of curiosity)
+
+PERSONAL PROFILE:
+      Name: Shreyas Pandya
+      present address: B-2,flat-no.14,Gangapuram society, viman nagar, pune,maharashtra
+      Permanent Address: 47,Vakil chowk,Kodinar,dist:Junagadh,gujarat,pin:362720
+      Date of birth: 26th  February, 1990
+      Gender: Male
+      Marital status: Single
+      Nationality: Indian
+      Known languages: English,Hindi, Gujarati.
+
+HOBBIES:
+      o.  web surfing
+      o.  Traveling and doing adventure sports.
+
+DECLARATION:
+I hereby declare that the above mentioned information is true to the best of my knowledge.
+
+Shreyas pandya
+
+
