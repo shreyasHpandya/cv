@@ -9,7 +9,7 @@ TECHNICAL KNOWLEDGE:
       o.  Django framework for web development
       o.  python language
       o.  javascript
-      o.  javascript MVC framwork: Backbone.js
+      o.  javascript MVC framwork: Backbone.js, Angular.js
       o.  bootstrap.css and basic css and web designing
       o.  Linux/Ubuntu (user management, file permissions, package management, server configurations)
       o.  sql 
@@ -28,6 +28,24 @@ WORKING EXPERIENCE:
       1. Software development consultant at Infogrid Pacific pvt.ltd.(Nov,2011-jul,2012)
       2. IT Analyst at Searce Cosourcing (Jul,2012-present)
 
+PROJECTS:
+      o.  Distribution Manager
+          using Django, postgresql
+      o.  Content Fullfillment system
+          using Django, postgresql
+      o.  Tariff Management System
+          using Django, mysql, AWS-S3
+      o.  Collaborative Recruitment Software
+          using google app engine, javascript(backbonejs)
+      o.  Server automation and remote server management system:
+           It is IAAS model of cloud computing developed for mistcloud web services 
+           pvt.ltd. It is built using open source softwares only. It involved use of linux env-
+           ironment as programming platform, python, php, as programming language and little use
+           of c,c++. Also, server virtualization technology, extensive use of networking concepts 
+           and storage area network and web technologies are involved.
+      o.  Sflow protocol for network automation:
+           modified the implementation of sflow protocol to integrate with the data-base. 
+
 STRENGTHS:
       o.  knack for learning new technologies
       o.  Open source enthusiast
@@ -41,23 +59,6 @@ ACADEMICS:
        10+2 with 84.8% completed in 2007
        10th with 75%   completed in 2005
 
-PROJECTS:
-      o.  Distribution Manager
-          using Django, postgresql
-      o.  Content Fullfillment system
-          using Django, postgresql
-      o.  Tariff Management System
-          using Django, mysql, AWS-S3
-      o.  Collaborative Recruitment Software
-          using google app engine, javascript
-      o.  Server automation and remote server management system:
-           It is IAAS model of cloud computing developed for mistcloud web services 
-           pvt.ltd. It is built using open source softwares only. It involved use of linux env-
-           ironment as programming platform, python, php, as programming language and little use
-           of c,c++. Also, server virtualization technology, extensive use of networking concepts 
-           and storage area network and web technologies are involved.
-      o.  Sflow protocol for network automation:
-           modified the implementation of sflow protocol to integrate with the data-base. 
 
 PERSONAL PROFILE:
       Name: Shreyas Pandya
