@@ -16,7 +16,7 @@ TECHNICAL KNOWLEDGE:
       o.  mongodb
       o.  git
 
-OTHER Tools/Platforms/Frameworks:
+OTHER TOOLS/PLATFORMS/FRAMEWORKS:
       o.  Google App Engine
       o.  Amazon AWS:
 	    familiarity with amazon ec2,s3 etc services
@@ -36,14 +36,14 @@ PROJECTS:
            Research current trends in recruitment industry. Based on that come up with the
            set of requirement for next generation recruitment software and present it to
            stack holders for acceptance. Then implement the requirement.
-            
+
       o.  Tariff Management System
            using Django, mysql, AWS-S3
           My Role:
            Understand the business requirement from business analyst and come up with the
            solution using technology. If needed negotiate the requirement and suggest alternative
            solutions.
-       
+
       o.  Distribution Manager
            using Django, postgresql
           My Role:
