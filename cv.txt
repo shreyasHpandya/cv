@@ -1,33 +1,33 @@
-Mr. SHREYAS PANDYA
+SHREYAS PANDYA
 Mo.: 9764779809
 E-Mail: mail@shreyaspandya.com
 
-CAREER OBJECTIVE:
+Objective:
 Contribute my best for the betterment of the entire humankind.
 
-TECHNICAL KNOWLEDGE:
-      o.  python language
-      o.  javascript
-      o.  Django framework
-      o.  javascript MVC framworks: Backbone.js, Angular.js
-      o.  basic css and web design implementaion using bootstrap.css
-      o.  Linux/Ubuntu (user management, file permissions, package management, server configurations)
-      o.  sql 
-      o.  mongodb
+Technical Knowledge:
+      o.  python
+,  javascript
+      o.  Django, Web2py
+, Google App Engine
+      o.  Backbone.js, Angular.js, jquery
+      o.  Linux/Ubuntu (managing servers)
+      o.  Mysql, mongodb
       o.  git
+      o.  Basic CSS
 
-OTHER TOOLS/PLATFORMS/FRAMEWORKS:
-      o.  Google App Engine
-      o.  Amazon AWS:
-	    familiarity with amazon ec2,s3 etc services
-      o.  various Javascript libraries. eg. underscore.js, backbone.js, jquery.js 
-      o.  REST api development
+Other Interests:
+      o.  Devops automation.
+      o.  Continuous integration
+      o.  Agile
+      o.  Amazon AWS
       o.  server virtualization using xen hypervisor
       o.  User Experience design and Gamification
 
 WORKING EXPERIENCE:
-      1. Software development consultant at Infogrid Pacific pvt.ltd.(Nov,2011-jul,2012)
-      2. IT Analyst at Searce Cosourcing (Jul,2012-present)
+      1.  Software development consultant at Infogrid Pacific pvt.ltd.(Nov,2011-jul,2012)
+      2.  IT Analyst at Searce Cosourcing (Jul,2012-Sep,2013)
+      3.  Lead Programmer at OneDelta Synergies pvt. ltd (Sep,2013-present)
 
 PROJECTS:
       o.  Applicant tracking system
@@ -49,7 +49,7 @@ PROJECTS:
           My Role:
            Understand the technical requirement and implement it
 
-      o.  Content Fullfillment system
+      o.  Content Fulfillment system
            using Django, postgresql
           My Role:
            Understand the technical requirement and implement it
@@ -65,10 +65,9 @@ PROJECTS:
            modified the implementation of sflow protocol to integrate with the data-base. 
 
 ACADEMICS:
-       B.Tech in Electronics and Communication Engg.
-       College:   Nirma Institute of Technology, Ahmedabad,Gujarat
-       Cumulative Performance Index: - 6.87 / 10
-       year of completion: 2011
+       B.Tech: - 6.87 / 10
+       In Electronics and Communication Engg.
+       From   Nirma Institute of Technology, Ahmedabad,Gujarat completed in Year 2011
        
        10+2 with 84.8% completed in 2007
        10th with 75%   completed in 2005
