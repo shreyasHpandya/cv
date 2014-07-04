@@ -1,27 +1,26 @@
 SHREYAS PANDYA
-Mo.: 9764779809
-E-Mail: mail@shreyaspandya.com
+91-9764779809
+mail@shreyaspandya.com
 
 Objective:
 Contribute my best for the betterment of the entire humankind.
 
 Technical Knowledge:
-      o.  python
-,  javascript
-      o.  Django, Web2py
-, Google App Engine
-      o.  Backbone.js, Angular.js, jquery
+      o.  Python,  JavaScript
+      o.  Django, Web2py, Google App Engine
+      o.  BackboneJS, AngularJS, jQuery
       o.  Linux/Ubuntu (managing servers)
-      o.  Mysql, mongodb
-      o.  git
-      o.  Basic CSS
+      o.  MySQL, Mongodb, Apache Solr
+      o.  Git
+      o.  HTML, CSS
 
 Other Interests:
       o.  Devops automation.
       o.  Continuous integration
       o.  Agile
+      o.  Product engineering
       o.  Amazon AWS
-      o.  server virtualization using xen hypervisor
+      o.  server virtualization using Xen hypervisor
       o.  User Experience design and Gamification
 
 WORKING EXPERIENCE:
@@ -31,51 +30,44 @@ WORKING EXPERIENCE:
 
 PROJECTS:
       o.  Applicant tracking system
-           using google app engine, javascript(backbonejs)
+           using Google app Engine, JavaScript(BackboneJS)
           My Role:
            Research current trends in recruitment industry. Based on that come up with the
            set of requirement for next generation recruitment software and present it to
-           stack holders for acceptance. Then implement the requirement.
+           stack holders for acceptance. Then implement the requirement
 
       o.  Tariff Management System
-           using Django, mysql, AWS-S3
+           using Django, MySQL, AWS S3, AWS EC2
           My Role:
-           Understand the business requirement from business analyst and come up with the
-           solution using technology. If needed negotiate the requirement and suggest alternative
-           solutions.
+           Understand the business requirement from business analyst and come up with a
+           solution using technology. If needed negotiate the requirement and suggest alternatives
 
       o.  Distribution Manager
-           using Django, postgresql
+           using Django, PostgreSQL
           My Role:
            Understand the technical requirement and implement it
 
       o.  Content Fulfillment system
-           using Django, postgresql
+           using Django, PostgreSQL, Apache Solr
           My Role:
            Understand the technical requirement and implement it
 
-      o.  Server automation and remote server management system:
-           It is IAAS model of cloud computing developed for mistcloud web services 
-           pvt.ltd. It is built using open source softwares only. It involved use of linux env-
-           ironment as programming platform, python, php, as programming language and little use
-           of c,c++. Also, server virtualization technology, extensive use of networking concepts 
-           and storage area network and web technologies are involved.
+      o.  Cloud infrastructure as a service:
+           clone of AWS EC2, was a my startup.
+           python, web.py, C, virtualization using Xen Colud Platform, HAProxy
 
       o.  Sflow protocol for network automation:
-           modified the implementation of sflow protocol to integrate with the data-base. 
+           modified the implementation of sflow protocol to integrate with the database
 
 ACADEMICS:
        B.Tech: - 6.87 / 10
        In Electronics and Communication Engg.
        From   Nirma Institute of Technology, Ahmedabad,Gujarat completed in Year 2011
-       
+
        10+2 with 84.8% completed in 2007
        10th with 75%   completed in 2005
 
-
-PERSONAL PROFILE:
-      Name: Shreyas Pandya
-      present address: 6-Amey, plot-9, Vardayini society,sus pashan road, pune,maharashtra
-      Permanent Address: 47,Vakil chowk,Kodinar,dist:Junagadh,gujarat,pin:362720
-      Date of birth: 26th  February, 1990
-
+WEB PRESENSE:
+       github.com/shreyasHpandya
+       twitter.com/shreyasHpandya
+       shreyaspandya.com
